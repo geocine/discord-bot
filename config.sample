@@ -1,0 +1,3 @@
+TOKEN = ''
+OWNER = 1 # user id
+GUILD = 2 # server id
